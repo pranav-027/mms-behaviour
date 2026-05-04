@@ -94,3 +94,101 @@ Both Enron and Sahara prove the **core idea of Behavioural Finance**:
 > **Enron and Sahara collapsed not just because of fraud — but because human emotions made smart people do stupid things with their money.**
 
 That's the power of **Behavioural Finance** — it explains *why* these disasters happen again and again. ✨
+
+# 📖 STORY 3: The Punjab National Bank & Nirav Modi Scam (India, 2018)
+
+*Continuing our journey through Behavioural Finance disasters...*
+
+---
+
+## 💎 The Story of the "Diamond King" Who Fooled India's Oldest Bank
+
+### The Beginning — A Glittering Empire
+Once upon a time, there was a man named **Nirav Modi** — a man who looked like he had it all. He was a **luxury diamond jeweller** whose stores sparkled in **New York, Hong Kong, London, and Mumbai**. Bollywood actresses like Priyanka Chopra wore his jewellery. Hollywood celebrities loved his designs. Magazines called him India's "Diamond King." 💍✨
+
+He looked rich, classy, and *trustworthy*.
+
+On the other side, there was **Punjab National Bank (PNB)** — one of India's **oldest and most respected** banks, established way back in **1894**. People trusted PNB the way they trust their grandfather — solid, safe, and reliable.
+
+What could go wrong when these two came together? **Everything.**
+
+---
+
+### 🎭 The Trick — A Magic Trick Worth ₹13,578 Crore
+
+Here's how the magic trick worked (in simple words):
+
+Imagine you go to your school and ask a teacher to write a **"trust letter"** saying, *"This boy is good, please give him ₹100."* The shopkeeper trusts your teacher and gives you ₹100. Now imagine the teacher writes this letter **secretly**, doesn't tell the school principal, and you keep coming back for more and more money — for **7 long years!**
+
+That's exactly what happened.
+
+- Nirav Modi got some PNB officials (mainly **Gokulnath Shetty**) to issue fake **"Letters of Undertaking" (LoUs)** — basically bank guarantees.
+- These LoUs were sent through the international banking message system called **SWIFT** to foreign branches of Indian banks.
+- Foreign banks gave Nirav Modi crores of rupees, trusting PNB's guarantee.
+- **BUT** — these LoUs were **never recorded** in PNB's main computer system (Core Banking System / CBS)!
+- So PNB's senior management had **NO IDEA** this debt even existed.
+- When old loans came due, new fake LoUs were issued to repay them — like a giant **financial Ponzi loop**. 🔄
+
+### 💥 The Fall
+In **February 2018**, the truth exploded:
+- Fraud amount: **₹13,578 crore (~USD 2 billion)** 💸
+- PNB's share price **crashed**.
+- Nirav Modi **fled India** before being caught — he's now in a UK jail fighting extradition.
+- RBI **banned LoUs completely** in India.
+- Public trust in government banks took a massive hit.
+
+---
+
+## 🧠 How Behavioural Finance Explains the PNB Scam
+
+| Bias | What Happened in Simple Words |
+|------|-------------------------------|
+| **Halo Effect** | Nirav Modi looked rich, glamorous, and famous → bank officials assumed, *"He's so successful, he can't possibly cheat us!"* His shiny image blinded them. |
+| **Authority Bias** | Nobody dared question Nirav Modi because of his celebrity status and powerful connections. Junior staff trusted senior officers blindly. |
+| **Overconfidence Bias** | The corrupt officials thought, *"We're too smart — nobody will ever catch us!"* They believed the SWIFT–CBS gap was their secret weapon. |
+| **Trust Heuristic** | Foreign banks gave money WITHOUT verification because *"It's PNB's guarantee — must be safe!"* They skipped due diligence. |
+| **Moral Hazard** | The officials thought, *"Even if it fails, the bank (and taxpayers) will pay — not me personally."* So they took crazy risks. |
+| **Reputation Bias** | Nirav Modi's brand reputation REPLACED actual financial checking. No collateral, no credit assessment — just *"trust the famous guy."* |
+| **Confirmation Bias** | Officials only saw what they wanted to see — Nirav Modi's success, ignoring missing paperwork and red flags. |
+| **Groupthink & Silence Bias** | Insiders colluded together; nobody whistleblew. Everyone thought, *"If others are okay with it, it must be fine."* |
+| **Status Quo Bias** | The fraud went on for **7 years** because nobody wanted to disrupt the "smooth" relationship. *"Why change something that's working?"* |
+| **Familiarity Bias** | Foreign banks were comfortable with PNB's name → no extra checks. Comfort killed caution. |
+
+---
+
+## 🎯 The Big Lesson From PNB Scam
+
+> 💡 **The scam didn't happen because the technology failed — it happened because HUMAN JUDGMENT failed.**
+
+The systems were there. The rules were there. But **emotions and biases** broke them all:
+- **Glamour** beat verification.
+- **Trust** beat scrutiny.
+- **Overconfidence** beat caution.
+- **Silence** beat accountability.
+
+### Simple Takeaways:
+1. 🌟 **Don't trust the "shine"** — A famous brand or person doesn't mean honest.
+2. 🔍 **Always verify, never assume** — Even "trusted" institutions can be fooled.
+3. 🗣️ **Speak up early** — Whistleblowers save crores. Silence is dangerous.
+4. ⚙️ **Systems need HUMAN ethics** — No technology can save us if humans manipulate it.
+5. 👀 **Question authority** — Just because a senior officer says "approve it," doesn't mean it's right.
+
+---
+
+## 🔗 Connecting All Three Stories — The Final Picture
+
+| Aspect | **Enron (USA)** | **Sahara (India)** | **PNB–Nirav Modi (India)** |
+|--------|-----------------|---------------------|----------------------------|
+| **Year** | 2001 | 2012 | 2018 |
+| **Amount Lost** | $74 billion | ₹24,000 crore | ₹13,578 crore |
+| **Main Trick** | Fake accounting | Unregulated deposits | Fake bank guarantees (LoUs) |
+| **Common Bias** | Overconfidence, Halo Effect, Authority Bias | Trust, Halo Effect, Herd Behaviour | Halo Effect, Overconfidence, Authority Bias |
+| **Who Suffered?** | Employees & investors | 3 crore small investors | Public sector bank & taxpayers |
+
+### 🧾 The ULTIMATE One-Line Lesson:
+> **From Enron's boardrooms to Sahara's villages to PNB's branches — every financial disaster proves the same truth: when human emotions overpower logic, even the smartest systems collapse.** 💔
+
+---
+
+### 🌟 Final Thought:
+**Behavioural Finance is not just theory — it's the invisible force behind every market crash, every scam, and every bad money decision.** Understanding it isn't optional — it's *self-defence* for your money. 🛡️💰
