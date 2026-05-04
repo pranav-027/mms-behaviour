@@ -1,1 +1,1 @@
-# Punishment to ignore me
+# Punishment for ignoring me
